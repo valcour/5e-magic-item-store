@@ -24,6 +24,6 @@ function get_item_names(item_list, item_prices) {
 };
 
 // display items + details
-function diplay_all(inventory){
+function diplay_all(inventory) {
 // !!!
 };

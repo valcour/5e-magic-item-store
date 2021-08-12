@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3, 
+    "name": "5e magic item store",
+    "version": "0.0.1",
+    "description": "5e customizable magic item store",
+    "short_name": "5e mis",
+    "host_permissions": [
+        "https://api.open5e.com/*"
+
+    ],
+    "background":{
+        "service_worker": "launch_store.js"
+
+    },
+
+
+
+
+}
