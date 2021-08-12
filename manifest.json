@@ -6,14 +6,8 @@
     "short_name": "5e mis",
     "host_permissions": [
         "https://api.open5e.com/*"
-
     ],
-    "background":{
+    "background": {
         "service_worker": "launch_store.js"
-
-    },
-
-
-
-
+    }
 }
